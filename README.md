@@ -5,7 +5,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 
 
-#📖 Project Overview
+# 📖 Project Overview
 
 This project involves:
 
@@ -17,8 +17,8 @@ This project involves:
 
 
 
-🛡️ ##License
+## 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-🌟 ##About Me
+## 🌟 About Me
 Hi there! I'm El Mehdi El Mannouzi. I’m a data student and passionate about transforming raw information into meaningful insights.
