@@ -42,4 +42,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm El Mehdi El Mannouzi. I’m a data student and passionate about transforming raw information into meaningful insights.
+Hi there! I'm Mehdi. a data student who is passionate about transforming raw information into meaningful insights.
